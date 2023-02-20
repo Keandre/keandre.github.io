@@ -1,0 +1,36 @@
+nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out, padding 0.3s ease-in-out;
+}
+
+nav a:hover {
+    background-color: #444;
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.research {
+    display: flex;
+}
+
+.research img {
+    max-width: 50%;
+    max-height: 25%;
+    margin-right: 5%;
+    object-fit: cover;
+}
