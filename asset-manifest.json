@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keandre.github.io/static/css/main.cb37aa64.css",
+    "main.js": "/keandre.github.io/static/js/main.bf3b93bd.js",
+    "static/js/787.55c4dddd.chunk.js": "/keandre.github.io/static/js/787.55c4dddd.chunk.js",
+    "index.html": "/keandre.github.io/index.html",
+    "main.cb37aa64.css.map": "/keandre.github.io/static/css/main.cb37aa64.css.map",
+    "main.bf3b93bd.js.map": "/keandre.github.io/static/js/main.bf3b93bd.js.map",
+    "787.55c4dddd.chunk.js.map": "/keandre.github.io/static/js/787.55c4dddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb37aa64.css",
+    "static/js/main.bf3b93bd.js"
+  ]
+}
